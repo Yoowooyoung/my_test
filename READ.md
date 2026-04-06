@@ -1,7 +1,5 @@
 # JavaScript 기초 실습 🚀
 
-본 프로젝트는 JavaScript의 주요 배열 메서드인 `map`과 `filter`를 학습하기 위한 용도입니다.
-
 ## 📚 학습 내용
 
 ### 1. map()
@@ -13,5 +11,4 @@
 - 예: 특정 작성자(홍길동, 김철수)의 글만 필터링하기
 
 ## 🛠 실행 방법
-1. VS Code에서 `test.js` 파일을 엽니다.
-2. `Quokka.js`를 실행하거나 터미널에서 `node test.js`를 입력합니다.
+1. `Quokka.js`실행: ctrl + shift + P
